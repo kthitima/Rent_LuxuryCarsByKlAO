@@ -1,0 +1,23 @@
+.ghost-button {
+    
+    color: #3e1616;
+    background: #fff;
+    border: 1px solid #670e0e;
+    font-size: 17px;
+    padding: 7px 12px;
+    font-weight: normal;
+    margin: 6px 0;
+    margin-right: 12px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    min-width: 120px;
+    -webkit-transition:1.0s; -moz-transition:1.0s;-o-transition:1.0s;
+}
+
+.ghost-button:hover, .ghost-button:active {
+  color:#493e20;
+  background:#fce095;
+    border: 1px solid #c89b22;
+    -webkit-transition:1.0s; -moz-transition:1.0s;-o-transition:1.0s;
+}
